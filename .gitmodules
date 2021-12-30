@@ -1,0 +1,6 @@
+[submodule "themes/hugo-theme-zzo"]
+	path = themes/hugo-theme-zzo
+	url = https://github.com/zzossig/hugo-theme-zzo.git
+[submodule "themes/blackburn"]
+	path = themes/blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn.git
