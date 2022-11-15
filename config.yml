@@ -1,10 +1,10 @@
 ---
 baseURL: https://piko-heksagon.netlify.app/
 languageCode: en-us
-title: Piko
+title: Lorecraft
 theme: piko
 paginate: "9"
-copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
+copyright: Aaron Thompson
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
 enableRobotsTXT: true
 buildDrafts: false
@@ -37,7 +37,7 @@ params:
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Aaron Thompson
+  author: Server Admins
   description: Your website description
   math: false
   images:
@@ -139,11 +139,16 @@ menus:
     pre: user-check
     url: "/starting_out"
     weight: "21"
+  - name: Rules
+    title: Rules
+    pre: info
+    url: "/rules"
+    weight: "22"
   - name: World Files
     title: World Files
-    pre: archive
+    pre: download
     url: "/worlds"
-    weight: "22"
+    weight: "23"
   - name: Search
     title: Search
     pre: search

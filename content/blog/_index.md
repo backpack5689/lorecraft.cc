@@ -1,6 +1,6 @@
 ---
-title: Blog
-image: "/uploads/portfolio-2.webp"
-description: My blog's description here
+title: Lorecraft News
+image: "/uploads/hexipel_world.png"
+description: The definitive news source for all things Lorecraft
 
 ---
