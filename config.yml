@@ -1,0 +1,169 @@
+---
+baseURL: https://piko-heksagon.netlify.app/
+languageCode: en-us
+title: Piko
+theme: piko
+paginate: "9"
+copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
+googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+minify:
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: false
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepWhitespace: false
+
+params:
+  analytics:
+    google:
+      SiteVerificationTag: # Google Site Verification
+    yandex:
+      SiteVerificationTag: # Yandex Site Verification
+    bing:
+      SiteVerificationTag: # Bing Site Verification
+  env: production
+  author: Aaron Thompson
+  description: Your website description
+  math: false
+  images:
+  - "/uploads/og.webp"
+  label:
+    title: "Lorecraft"
+    text: Welcome to Lorecraft!
+    icon: /uploads/Lorecraft_Discord_Icon.jpg
+    iconHeight: "35"
+    iconWIdth: "35"
+  comments: true
+  mainSections:
+  - blog
+  - world files
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
+  ShowRelated: true
+  CookieNotice: We use cookies to improve your experience on our site and to show
+    you relevant advertising.
+  CookieLink: /legal/privacy/#cookies-and-web-beacons
+  CookieButton: Cookies Policy
+  disableAnchoredHeadings: false
+  contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
+  assets:
+    disableFingerprinting: false
+    favicon: /uploads/Lorecraft_Discord_Icon.jpg
+    favicon16x16: /uploads/Lorecraft_Discord_Icon.jpg
+    favicon32x32: /uploads/Lorecraft_Discord_Icon.jpg
+    apple_touch_icon: /uploads/Lorecraft_Discord_Icon.jpg
+    safari_pinned_tab: /uploads/Lorecraft_Discord_Icon.jpg
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  homepage:
+    # Hero Section
+    disableHeroSection: false
+    heroUpperTitle: 
+    heroTitle: Lorecraft
+    heroDescription: A minecraft server for Christian Colleges and their Alumni.
+    heroCTAPrimaryText: News Articles
+    heroCTAPrimaryUrl: "/blog/"
+    heroCTASecondaryText: Contact the Dev
+    heroCTASecondaryUrl: "/contact/"
+    heroBackgroundImage: "/uploads/hexipel_world.png"  
+    # Blog Section
+    disableBlogSection: true
+    blogTitle: Latest Posts
+    blogDescription: This is my latest blog posts
+    seeMoreText: More Posts
+    # About Section    
+    disableAboutSection: false
+    aboutTitle: Come Join Us!
+    aboutDescription: 
+    aboutImgUrl: "/uploads/Lorecraft_Discord_Icon.jpg"
+    aboutContent: Welcome to lorecraft! We are a group of both college students and alumni from Christian Universities. The goal of lorecraft is to pring people together, and to build a fun world in all facets.
+    # Portfolio Section
+    disablePortfolioSection: false
+    portfolioTitle: Want to learn more?
+    portfolioDescription: Here are some useful links!
+    portfolio:
+    - imageUrl: /uploads/discordblue.png
+      alt: # image alt for better SEO
+      description: Join the Discord
+      websiteUrl: #
+    - imageUrl: /uploads/portfolio-2.webp
+      alt: # image alt for better SEO
+      description: Learn the rules
+      websiteUrl: #
+    - imageUrl: /uploads/portfolio-3.webp
+      alt: # image alt for better SEO
+      description: Access the old World Files
+      websiteUrl: #
+  # Search Options (https://fusejs.io/)
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: "0"
+    distance: "1000"
+    threshold: "0.4"
+    minMatchCharLength: "0"
+    keys:
+    - title
+    - permalink
+    - summary
+    - content
+  plugins:
+    css:
+    - link: plugins/css/pico.min.css
+    js:
+    - link: plugins/js/feather.min.js
+menus:
+  main: # Main Menu
+  - name: The LoreCraft News
+    title: News
+    pre: book-open
+    url: "/blog"
+    weight: "20"
+  - name: Quick Start Guide
+    title: Quick Start
+    pre: user-check
+    url: "/starting_out"
+    weight: "21"
+  - name: World Files
+    title: World Files
+    pre: archive
+    url: "/worlds"
+    weight: "22"
+  - name: Search
+    title: Search
+    pre: search
+    url: "/search"
+    weight: "30"
+  - name: Contact
+    title: Contact
+    pre: mail
+    url: "/contact"
+    weight: "40"
+  search: # Search page's quick links
+  - name: Categories
+    title: Categories
+    url: "/categories"
+    weight: "10"
+  - name: Archives
+    title: Archives
+    url: "/archives"
+    weight: "20"
+  - name: Tags
+    title: Tags
+    url: "/tags"
+    weight: "30"
