@@ -18,4 +18,16 @@ Once a resolution is proposed, players will have 72 hours to cast their vote. Vo
 
 ## Proposing Resolutions & Discussions
 
-Discussions are to take place in the tread below the resolution post. 
+Discussions are to take place in the tread below the resolution post. All resolutions should be formatted with title containing "Resolution N". If the proposal is a world reset, the proposal should be titled "World Reset M", notably being a different counter specific to world resets.
+
+If a Resolution is proposed, and then must be changed, it can be edited. When you go to edit it, the following items need to be changed:
+
+1. Title should be changed to "Resolution N.L", N being the original resolution number, and L being the revision number.
+2. The change should be made within the body of the proposal
+3. At the bottom of the proposal, the number of the revision should be bolded, then a hyphen, then the change that was made.
+4. At the end of that revision note, there should be a timestamp of the change. The resolution will then have 72 hours from that point.
+5. Admins should be notifed so they can remove all reactions from the post. This resets any progress the resolution has made.
+
+## Further questions
+
+If you have more questions as they pertain to SWAG, please reach out to one of the admins in the general chat, or feel free to DM them.
