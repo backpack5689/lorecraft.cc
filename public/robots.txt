@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://piko-heksagon.netlify.app/sitemap.xml
