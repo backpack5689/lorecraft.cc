@@ -5,7 +5,7 @@ title: Lorecraft
 theme: piko
 paginate: "9"
 copyright: Aaron Thompson
-googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
+googleAnalytics: UA-208993498-2
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -38,10 +38,10 @@ params:
       SiteVerificationTag: # Bing Site Verification
   env: production
   author: Server Admins
-  description: Your website description
+  description: Lorecraft - A minecraft server for Christian Colleges and their Alumni.
   math: false
   images:
-  - "/uploads/og.webp"
+  - "/uploads/hexipel_world.png"
   label:
     title: "Lorecraft"
     text: Welcome to Lorecraft!
@@ -60,7 +60,7 @@ params:
   CookieLink: /legal/privacy/#cookies-and-web-beacons
   CookieButton: Cookies Policy
   disableAnchoredHeadings: false
-  contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
+  contactFormAction: ccc035b4-8a0c-4a1b-81d5-3cc12cf0f2b3 # Get link from https://formsubmit.io or https://fabform.io
   assets:
     disableFingerprinting: false
     favicon: /uploads/Lorecraft_Discord_Icon.jpg
@@ -132,7 +132,7 @@ menus:
   - name: The LoreCraft News
     title: News
     pre: book-open
-    url: "/blog"
+    url: "/news"
     weight: "20"
   - name: Quick Start Guide
     title: Quick Start
