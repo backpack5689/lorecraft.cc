@@ -1,6 +1,5 @@
 ---
 title: 'Quick Start' # in any language you want
-# url: "/archive"
 disableShare: true
 layout: legal
 showToc: true

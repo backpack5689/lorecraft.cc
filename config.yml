@@ -124,9 +124,9 @@ params:
     - content
   plugins:
     css:
-    - link: plugins/css/pico.min.css
+    - link: /plugins/css/pico.min.css
     js:
-    - link: plugins/js/feather.min.js
+    - link: /plugins/js/feather.min.js
 menus:
   main: # Main Menu
   - name: The LoreCraft News
