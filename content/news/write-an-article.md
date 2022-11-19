@@ -6,7 +6,6 @@ description: "How to write your own article about the server, and have it posted
 tags: ["How-To", "Admin"]
 categories: ["How-To"]
 ShowRelated: false
-archive: true
 showToc: false
 ShowBreadCrumbs: false
 ---

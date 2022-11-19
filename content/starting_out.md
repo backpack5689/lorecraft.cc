@@ -13,8 +13,7 @@ There are 4 steps that we are going to go through today, that when completed, yo
 
 - [Joining the Discord](#joining-the-discord)
 - [Getting on the Whitelist](#getting-on-the-whitelist)
-- [Reading the Rules](#reading-the-rules)
-- [Understanding the Plugins](#understanding-the-plugins)
+- [Joining the Game](#joining-the-game)
 
 Let's jump into those now!
 
@@ -44,6 +43,8 @@ Depending on which version of Minecraft you use, the process may be slightly dif
 
 While you're waiting to be whitelisted, now would be a good time to continue reading the next 2 sections, the Rules and the Plugins!
 
-## Reading the Rules
+## Joining the Game
 
-## Understanding the Plugins
+Once you've gotten on the whitelist, there's not much else to do! You can join the server at either `mc.lorecraft.cc` for Java players, and `mcb.lorecraft.cc` for Bedrock players. If you have the time, we would highly recommend reading through the Rules on the rules page, where we outline the different plugins and rules that have been created by the rest of the players. I would also highly recommend going to the news section as well to learn about developments in the current world.
+
+We hope you enjoy the game! We are so happy that you were able to join, and we can't wait to see what you'll create!
