@@ -129,6 +129,11 @@ params:
     - link: /plugins/js/feather.min.js
 menus:
   main: # Main Menu
+  - name: Home
+    title: Home
+    pre: home
+    url: "/"
+    weight: "19"
   - name: The LoreCraft News
     title: News
     pre: book-open
