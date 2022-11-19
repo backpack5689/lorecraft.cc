@@ -5,6 +5,8 @@ layout: legal
 showToc: true
 ---
 
+
+
 Welcome to Lorecraft! We are so excited to have you joining our server!
 
 The goal of this guide is to be a one-stop-shop for how to interact with the server, and how to get started in the world! Due to the amount of world building, and the massive amount of players able to join, our admin team has developed this guide to help you quickly get into the game!

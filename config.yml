@@ -76,10 +76,10 @@ params:
     heroUpperTitle: 
     heroTitle: Lorecraft
     heroDescription: A minecraft server for Christian Colleges and their Alumni.
-    heroCTAPrimaryText: News Articles
-    heroCTAPrimaryUrl: "/news/"
-    heroCTASecondaryText: Contact the Dev
-    heroCTASecondaryUrl: "/contact/"
+    heroCTAPrimaryText: Get Whitelisted
+    heroCTAPrimaryUrl: "https://discord.lorecraft.cc"
+    heroCTASecondaryText: Get Started
+    heroCTASecondaryUrl: "/starting_out"
     heroBackgroundImage: "/uploads/hexipel_world.png"  
     # Blog Section
     disableBlogSection: true
@@ -89,7 +89,7 @@ params:
     # About Section    
     disableAboutSection: false
     aboutTitle: Come Join Us!
-    aboutDescription: 
+    aboutDescription: IP - mc.lorecraft.cc | mcb.lorecraft.cc
     aboutImgUrl: "/uploads/Lorecraft_Discord_Icon.jpg"
     aboutContent: "LoreCraft opened on January 2, 2022, with the merger of two Minecraft servers from Harding University and Lipscomb University. We are primarily a Christian community with shared roots in the churches of Christ, and we welcome Christians of all denominations and non-Christians alike with open arms.Our server has a long history of worldbuilding. As such, players are encouraged to build nations, governments, religions, companies, cities, economies, and anything else to contribute to our shared history and lore."
     # Portfolio Section
@@ -99,7 +99,7 @@ params:
     portfolio:
     - imageUrl: /uploads/discordblue.png
       alt: # image alt for better SEO
-      description: Join the Discord
+      description: Join the Discord to be Whitelisted
       websiteUrl: http://discord.lorecraft.cc #
     - imageUrl: /uploads/rules&regs.jpg
       alt: # image alt for better SEO
@@ -159,10 +159,10 @@ menus:
     pre: search
     url: "/search"
     weight: "30"
-  - name: Contact
-    title: Contact
-    pre: mail
-    url: "/contact"
+  - name: Map
+    title: Live Map
+    pre: map
+    url: "http://map.lorecraft.cc"
     weight: "40"
   search: # Search page's quick links
   - name: Categories
