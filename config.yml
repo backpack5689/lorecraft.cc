@@ -76,10 +76,10 @@ params:
     heroUpperTitle: 
     heroTitle: Lorecraft
     heroDescription: A minecraft server for Christian Colleges and their Alumni.
-    heroCTAPrimaryText: Get Whitelisted
-    heroCTAPrimaryUrl: "https://discord.lorecraft.cc"
-    heroCTASecondaryText: Get Started
-    heroCTASecondaryUrl: "/starting_out"
+    heroCTAPrimaryText: Get Started
+    heroCTAPrimaryUrl: "/starting_out"
+    heroCTASecondaryText: Download an old world
+    heroCTASecondaryUrl: "/worlds"
     heroBackgroundImage: "/uploads/hexipel_world.png"  
     # Blog Section
     disableBlogSection: true
