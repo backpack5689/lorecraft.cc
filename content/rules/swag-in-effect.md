@@ -11,3 +11,4 @@ Below is a list of the current SWAG rules that are in effect:
 
 | Resolution # | Date Passed | Resolution |
 |:-------------|-------------|-----------:|
+|1|November 23, 2022| Change the gamerule `playersSleepingPercent` to 25 instead of 50 |
