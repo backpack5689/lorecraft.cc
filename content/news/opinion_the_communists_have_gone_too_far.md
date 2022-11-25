@@ -3,9 +3,9 @@ author: "MrWeish"
 title: "The Communists Have Gone Too Far"
 date: "2022-11-24"
 description: "Opinion piece on why I was killed by communists, and why I don’t think it was justified."
-tags: ["opinion", "Capitalist"]
+tags: ["Opinion", "Capitalist"]
 categories: ["Opinion"]
-ShowRelated: True
+ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false
 ---
