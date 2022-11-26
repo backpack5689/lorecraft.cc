@@ -3,7 +3,7 @@ author: "ratat0ing"
 title: "Give the Commune a Chance"
 date: "2022-11-25"
 description: "MrWeish wants you to believe that the Commune is the bad guy. Hear us out."
-tags: ["Opinion", "Communist"]
+tags: ["Opinion", "The Commune"]
 categories: ["Opinion"]
 ShowRelated: false
 showToc: false
