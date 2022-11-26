@@ -9,8 +9,11 @@ ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false
 ---
+{{< rawhtml >}}
 
-![A photo of the commune in the sunset]("/static/uploads/discordblue.png")
+    <img src="/uploads/commune-11-25-22.png">
+
+{{< /rawhtml >}}
 
 We were shocked and saddened to read a recent article by MrWeish, “The Communists Have Gone Too Far”, which makes a lot of inaccurate and misleading claims about the Commune. This article was not how we, the Commune, hoped to be introduced to the world. So we humbly ask you, reader, to let go of all your preconceived notions about the Commune and hear us out.
 
