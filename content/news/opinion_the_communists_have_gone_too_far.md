@@ -9,6 +9,7 @@ ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false
 ---
+
 As many in the community may already know, I was recently executed by communists for trading with their villagers. My name is MrWeish, and I’ve only recently joined the server. I have been working hard to build a capitalist paradise on the mountains east of Spawn, which has put me on the border of the large community known as “The Commune”.
 
 The Commune is a communist society built on the backs of the working class. They absolutely despise capitalists like me, who work hard for what we have. Since starting work on my settlement, I have been met with constant hostility from them. One could even say that they have been predisposed to hate me.
