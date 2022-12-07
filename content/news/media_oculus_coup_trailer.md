@@ -1,11 +1,11 @@
 ---
 author: "ratat0ing"
-title: "Oculus Corp Documentary Trailer"
+title: "Oculus Coup Documentary Trailer"
 date: "2022-12-07"
-description: "The release of the Oculus Corp Documetary Trailer"
+description: "The release of the Oculus Coup Documentary Trailer"
 tags: ["Media", "Documentary"]
 categories: ["Media"]
-ShowRelated: true
+ShowRelated: false
 showToc: false
 ShowBreadCrumbs: true
 ---

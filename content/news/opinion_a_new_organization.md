@@ -5,7 +5,7 @@ date: "2022-12-06"
 description: "How we should all come together against the bloodthirsty communists"
 tags: ["Opinion", "Capitalist"]
 categories: ["Opinion"]
-ShowRelated: false
+ShowRelated: true
 showToc: false
 ShowBreadCrumbs: false
 ---

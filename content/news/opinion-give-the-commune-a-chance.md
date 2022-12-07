@@ -5,7 +5,7 @@ date: "2022-11-25"
 description: "MrWeish wants you to believe that the Commune is the bad guy. Hear us out."
 tags: ["Opinion", "The Commune"]
 categories: ["Opinion"]
-ShowRelated: false
+ShowRelated: true
 showToc: false
 ShowBreadCrumbs: false
 ---

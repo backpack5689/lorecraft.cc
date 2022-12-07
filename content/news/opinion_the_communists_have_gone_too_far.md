@@ -5,7 +5,7 @@ date: "2022-11-24"
 description: "Opinion piece on why I was killed by communists, and why I don’t think it was justified."
 tags: ["Opinion", "Capitalist"]
 categories: ["Opinion"]
-ShowRelated: false
+ShowRelated: true
 showToc: false
 ShowBreadCrumbs: false
 ---
