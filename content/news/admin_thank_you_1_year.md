@@ -12,8 +12,4 @@ ShowBreadCrumbs: false
 
 Hello everyone!
 
-Christmas time means that the new year is just around the corner. I just wanted to take a moment from the admins and say -- thank you so much for everything you have done!
-
-We have grown so much in the past year, we have ~161 members within our Discord, which is *crazy*! I thank you all for allowing myself the opportunity to administrate the server, especially on a technical level. I truly love getting to work on networking and linux items, and this server gives me the opportunity to practice these skills almost daily.
-
-I also want to thank you for your contributions to the server! As everyone knows, this server is crowd-funded. Each month, we attempt to hit a goal of $36.00 in order to cover most of our operating costs. 
+We want to genuinely thank everyone who's put time and effort into the LoreCraft Server. Definitely one of the highlights of my day when we can just kick back and hang out with you all on the server. We also want to specifically thank everyone who's donated to keep the server going. We're still crowdfunded, so the server will be kept alive as long as there are people willing to invest in it. It's really great to have an active community all building lore in the same world. Let's keep it up into 2023!
