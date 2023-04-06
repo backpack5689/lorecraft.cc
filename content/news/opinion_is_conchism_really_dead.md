@@ -7,7 +7,7 @@ tags: ["Opinion", "Religon", "Conchism"]
 categories: ["Opinion"]
 ShowRelated: true
 showToc: false
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ---
 
 Once upon a time, it was believed that there was a magic conch that was said to have possessed powers over the natural world and that it would grant various requests of its followers. A religion was established and, what would be later known as [Conchism](https://newport.fandom.com/wiki/Conchism?so=search)[^1], would take the world by storm. As time passed, many would fall away from Conchism. Some say it’s dead. However, whispers of a player harnessing similar powers to the Magic Conch have begun to surface. 

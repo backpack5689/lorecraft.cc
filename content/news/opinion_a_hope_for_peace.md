@@ -7,7 +7,7 @@ tags: ["Opinion", "Commune"]
 categories: ["Opinion"]
 ShowRelated: true
 showToc: false
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ---
 
 I joined the commune hoping to find unity, peace and prosperity, and to learn what it truly means to be a part of this world. The commune sprang up and quickly became a true workhorse. A beautiful collaboration between individuals and their diverse talents, coming together to share resources of their own free will and selflessness. What a beautiful community to be a part of. 

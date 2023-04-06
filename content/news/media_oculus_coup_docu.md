@@ -17,10 +17,10 @@ The LoreCraft Server and Three Worlds Productions present The Oculus Coup, a doc
 In December 2021, the Spawnee HOA was taken over by an authoritarian group called the Oculus Party. With never-before-seen messages and exclusive interviews, "The Oculus Coup" relives the true story of the Party's rise to power– and the grassroots movement to stop them.
 
 Credits:
-Narrator - Lance Black / SlammerDoc
-crustyceans - Christy Anne Willis
-DrRinklbrain - Samuel Anderson
-Escarchaking333 - Tanner Stone
-IITheRecyclerII - Janelle Campbell
-isaacr4760 - Isaac Raymond (voiced by Tristan Durey)
-lostcity99 - Alontis Andress
+- Narrator - Lance Black / SlammerDoc
+- crustyceans - Christy Anne Willis
+- DrRinklbrain - Samuel Anderson
+- Escarchaking333 - Tanner Stone
+- IITheRecyclerII - Janelle Campbell
+- isaacr4760 - Isaac Raymond (voiced by Tristan Durey)
+- lostcity99 - Alontis Andress

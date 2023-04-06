@@ -7,7 +7,7 @@ tags: ["Interview", "Exposé", "Commune"]
 categories: ["Exposé"]
 ShowRelated: false
 showToc: false
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ---
 
 According to an accidental intelligence operation, the commune was found to have a forced labor camp full of villagers captured against their own will. I had the privilege to interview [REDACTED], the player who stumbled upon this sinister plot

@@ -7,7 +7,7 @@ tags: ["Opinion", "Capitalist"]
 categories: ["Opinion"]
 ShowRelated: true
 showToc: false
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ---
 
 As many in the community may already know, I was recently executed by communists for trading with their villagers. My name is MrWeish, and I’ve only recently joined the server. I have been working hard to build a capitalist paradise on the mountains east of Spawn, which has put me on the border of the large community known as “The Commune”.

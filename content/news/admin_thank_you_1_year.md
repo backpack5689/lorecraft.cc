@@ -7,7 +7,7 @@ tags: ["Out-of-Lore", "Admins"]
 categories: ["Admin Message"]
 ShowRelated: false
 showToc: false
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ---
 
 Hello everyone!

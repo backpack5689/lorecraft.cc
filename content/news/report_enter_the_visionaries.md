@@ -7,7 +7,7 @@ tags: ["Opinion", "Capitalist", "Visionaries"]
 categories: ["Opinion"]
 ShowRelated: true
 showToc: false
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ---
 
 Hello everyone!

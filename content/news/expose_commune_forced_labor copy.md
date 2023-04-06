@@ -7,7 +7,7 @@ tags: ["Kintenko Kingdom","Opinion"]
 categories: ["Opinion"]
 ShowRelated: True
 showToc: false
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ---
 
 Long ago when the most strived kingdom was the Kingdom of Alconhime which at the time was ruled by King Gennath. Hannah was a commoner of that king. She got pregnant at 20 with a daughter, who was later brought into this world named Dana. Her mother had to raise her alone while working multiple jobs barely able to put food on the table. Dana was little, but she could still see the sadness in her mother's eyes. 

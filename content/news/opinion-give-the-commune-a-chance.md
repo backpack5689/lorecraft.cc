@@ -7,7 +7,7 @@ tags: ["Opinion", "The Commune"]
 categories: ["Opinion"]
 ShowRelated: true
 showToc: false
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ---
 {{< rawhtml >}}
 
