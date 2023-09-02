@@ -1,8 +1,8 @@
 ---
 author: "ratat0ing"
-title: "AG Election ends in tie"
-date: "2023-09-01"
-description: "Two Attorneys General?! Toria & Lucy will both win after "exhausing" election ends in stalemate"
+title: "AG Election Ends in Tie"
+date: "2023-09-02"
+description: "Two Attorneys General?! Toria & Lucy will both win after \"exhausing\" election ends in stalemate"
 tags: ["Report", "Attorney General"]
 categories: ["Report"]
 ShowRelated: true
@@ -10,9 +10,9 @@ showToc: false
 ShowBreadCrumbs: true
 ---
 
-{{<rawhtml>}}
+{{< rawhtml >}}
     <img src = "\uploads\ag_election.png">
-{{</rawhtml>}}
+{{< /rawhtml >}}
 
 Even after more than a week of what has been described as an “exhausting” and “harrowing” election cycle, LoreCraft voters still won’t get any relief from the political process for at least a few more days. Friday morning, the hotly contested Attorney General election ended in an EXACT TIE between candidates Toria and LucyWolfie. They are now expected to both serve as Attorneys General at the same time, contingent on Resolution 21 passing in SWAG.
 
