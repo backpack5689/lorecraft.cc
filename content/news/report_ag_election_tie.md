@@ -2,7 +2,7 @@
 author: "ratat0ing"
 title: "AG Election Ends in Tie"
 date: "2023-09-02"
-description: "Two Attorneys General?! Toria & Lucy will both win after \"exhausing\" election ends in stalemate"
+description: "Two Attorneys General?! Toria & Lucy will both win after \"exhausting\" election ends in stalemate"
 tags: ["Report", "Attorney General"]
 categories: ["Report"]
 ShowRelated: true
