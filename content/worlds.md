@@ -17,4 +17,3 @@ The list of the files to download, as well as a reference as to when they were i
 |June 8th, 2021 | December 29th, 2021 | [Click Here](https://drive.google.com/file/d/1KWGNDOIopBa2irTo0zqQQzgMSGd0zR9a/view?usp=drivesdk) | Bedrock | Spawnee World |
 |January 1st, 2022 | November 19th, 2022 | [Click Here](https://www.mediafire.com/file/yx757hhysjvvi9v/world_1641017243.zip/file)  | Java | UKF & Coastal Alliance |
 |November 19th, 2022 | Current | n/a | Java | Remnant & SoVal |
-|January 13th, 2024 | January 14th, 2024 | n/a | Java | Meetup World |

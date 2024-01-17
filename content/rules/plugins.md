@@ -11,7 +11,8 @@ In this server, there are a couple important plugins that the server utilizes in
 
 - [Geyser](#geyser)
 - [Dynmap](#dynmap)
-- [Skoice](#skoice)
+- [Simple Voice Plugin](#simple-voice-plugin)
+- [Skoice](#skoice) - *Deprecated*
 
 ## Geyser
 
@@ -42,14 +43,44 @@ You can also add individual icons to the map as well. This could be for shops, o
 
 Want to dive even deeper in Dynmap? Their wiki can be found at [this link](https://github.com/webbukkit/dynmap/wiki/Using-Markers).
 
-## Skoice
+## Simple Voice Plugin
+
+"Simple Voice Chat" is a proximity voice chat system that doesn't rely on discord, but instead is fully used and operated within Minecraft. It's even the same one used in HermitCraft!
+
+Below you will find instructions for if you're using [ATLauncher](https://atlauncher.com/) (trail's personal favorite launcher), or if your using the normal launcher. I highly recommend you use ATLauncher or an alternative that makes it easy to update mods, but that choice is up to you.
+
+### SVP with ATLauncher
+
+1. If you don't already have a modded instance:
+    1. Go to "Create Pack"
+    2. Click the latest version, and select "Fabric" as the loader. Then, click "Create Instance"
+    3. Go to the instances page and select "Add Mods"
+    4. Download the Fabric API by selecting the button under the search bar in the top right.
+2. Search for "Simple Voice Chat" in the "Add Mods" section
+3. *Optional* - Search for and install "Mod Menu" (I have the best luck locating it in Modrinth)
+
+That's all! Go ahead and launch your game, and you should see a little icon in the bottom right, that means it's working! You can use the "V" button to look at what's going on (if you have other mods, you may need to bind this to a different key).
+
+### SVP without ATLauncher
+
+This process can be involved. We highly recommend using a special launcher like Aternos, ATLauncher, or MultiMC to simplify the process. If you would still like to proceede, please use the video walkthrough below. You can find the links that are mentioned in the video in a list below in the order they appear.
+
+{{<youtube mjblVOTJz2Y>}}
+
+
+- [Simple Voice Chat Curseforge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
+- [Fabric MC Website](https://fabricmc.net/)
+
+## Skoice 
+
+***Note: Skoice has now been deprecated by our server. Please utilize [Simple Voice Plugin](#simple-voice-plugin) for proximity chat***
 
 Skoice is essentially in-game voice chat, that is powered by discord. It uses a custom-built discord bot, along with a plugin to the server, in order to tell your position to other players, and if you are within 50 blocks of another player, you will be put in a special voice chat.
 
 There is some first time setup that you have to do in order to utilize the plugin. Follow below to get Skoice linked:
 
 1. Join the minecraft server
-2. Type `*link` in Discord
+2. Type `/link` in Discord
     - _Please utilize the #bots channel in discord, as most users have this muted_
 3. You should receive a DM from Skoice with a code; copy the token from the DM
 4. With your player in the server, type `/skoice link {token}`
