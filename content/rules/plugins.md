@@ -47,7 +47,7 @@ Want to dive even deeper in Dynmap? Their wiki can be found at [this link](https
 
 "Simple Voice Chat" is a proximity voice chat system that doesn't rely on discord, but instead is fully used and operated within Minecraft. It's even the same one used in HermitCraft!
 
-Below you will find instructions for if you're using [ATLauncher](https://atlauncher.com/) (trail's personal favorite launcher), or if your using the normal launcher. I highly recommend you use ATLauncher or an alternative that makes it easy to update mods, but that choice is up to you.
+Below you will find instructions for if you're using [ATLauncher](https://atlauncher.com/) (trail's personal favorite launcher), or if your using the normal launcher. I recommend you use ATLauncher or an alternative that makes it easy to update mods, but that choice is up to you.
 
 ### SVP with ATLauncher
 
@@ -63,12 +63,23 @@ That's all! Go ahead and launch your game, and you should see a little icon in t
 
 ### SVP without ATLauncher
 
-This process can be involved. We highly recommend using a special launcher like Aternos, ATLauncher, or MultiMC to simplify the process. If you would still like to proceede, please use the video walkthrough below. You can find the links that are mentioned in the video in a list below in the order they appear.
+1. Go to the [Simple Voice Chat mod on Curseforge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) and download the latest fabric version of the mod.
+2. Go to the [Fabric MC Website](https://fabricmc.net/) and download for windows.
+    - If you are playing on Mac/Linux, download the universal jar located directly below the button.
+3. On Windows, use the Fabric installer you downloaded to download it - *ensure you use the same version as the mod you downloaded*
+4. Open the Microsoft launcher, and select the "Fabric Loader" installation and "Play"
+5. Now go to "Run" and type: `%appdata%`
+    - You can also press the Windows Key (⊞) + R key to open the Run box
+6. Then go to `Roaming/.minecraft/mods`
+    - If this doesn't show up, just make a folder in .minecraft called "mods"
+7. Drag the Java file for the mod into this folder
+8. Start minecraft!
+
 
 {{<youtube mjblVOTJz2Y>}}
 
 
-- [Simple Voice Chat Curseforge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
+[^1]: https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
 - [Fabric MC Website](https://fabricmc.net/)
 
 ## Skoice 
