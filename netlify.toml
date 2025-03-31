@@ -1,8 +1,0 @@
-[build]
-  publish = "public"
-  command = "hugo"
-
-[[headers]]
-  for = "/*"
-    [headers.values]
-    Access-Control-Allow-Origin = "*"
