@@ -3,9 +3,10 @@ baseURL: https://www.lorecraft.cc
 languageCode: en-us
 title: Lorecraft
 theme: piko
-paginate: "9"
+pagination:
+  pagerSize: 9
 copyright: Aaron Thompson
-googleAnalytics: UA-208993498-2
+googleAnalytics:
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -88,8 +89,8 @@ params:
     seeMoreText: More Posts
     # About Section    
     disableAboutSection: false
-    aboutTitle: Come Join Us!
-    aboutDescription: IP - mc.lorecraft.cc | mcb.lorecraft.cc
+    aboutTitle: Server has closed.
+    aboutDescription: LoreCraft imploded in late 2024 due to a combination of inactivity, in-lore hostilities, out-of-lore cliques, and a failed coup against the admins.
     aboutImgUrl: "/uploads/Lorecraft_Discord_Icon.jpg"
     aboutContent: "LoreCraft opened on January 2, 2022, with the merger of two Minecraft servers from Harding University and Lipscomb University. We are primarily a Christian community with shared roots in the churches of Christ, and we welcome Christians of all denominations and non-Christians alike with open arms.Our server has a long history of worldbuilding. As such, players are encouraged to build nations, governments, religions, companies, cities, economies, and anything else to contribute to our shared history and lore."
     # Portfolio Section
